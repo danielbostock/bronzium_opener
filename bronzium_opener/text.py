@@ -35,3 +35,56 @@ Would you like to run the opener in cycles or by a specific length of time?
 '''
 
 STARTING = 'Starting The Bronzium Pack Opener in 5 Seconds...'
+
+CONFIRM = '''
+1. Start
+2. Adjust run time for the opener
+3. Return to main menu
+
+If the current length of time (or cycles) that you would like to run this opener for is correct, PRESS 1. 
+
+Alternatively select other options to make adjustments or start again.
+
+Selection: '''
+
+TIMER_MINS = 'Specify how long you would like to open packs for. Refer to documentation for a reference on how many packs are opened per min/hour.\n\nTime(mins): '
+TIMER_HOURS = 'Specify how long you would like to open packs for. Refer to documentation for a reference on how many packs are opened per min/hour.\n\nTime(hours): '
+
+## ERRORS
+
+ERROR_GENERAL_INVALID_SELECTION = 'You have made an invalid selection. Please try again.\n\nPress enter to restart...'
+
+## MENU - GENERAL
+
+MENU_GEN_BREAK = '''
+
+'''
+
+
+## MENU - CYCLES
+
+MENU_CYCLES_TOP = '''
+|-------------------------------------------------------------|
+| SWGOH BlueStacks Bronzium Pack Opener - Cycle Based Opening |
+|-------------------------------------------------------------|
+'''
+MENU_CYCLES_RUNTIME = '''
+|------------------------------------------------------|
+| Cycle Based Opening - Running time for opening packs |
+|------------------------------------------------------|
+'''
+
+## MENU - TIME
+
+MENU_TIME_TOP = '''
+|------------------------------------------------------------|
+| SWGOH BlueStacks Bronzium Pack Opener - Time Based Opening |
+|------------------------------------------------------------|
+
+'''
+
+MENU_TIME_RUNTIME = '''
+|------------------------------------------------------|
+| Cycle Based Opening - Running time for opening packs |
+|------------------------------------------------------|
+'''
