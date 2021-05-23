@@ -32,13 +32,12 @@ COMING SOON!
 
 ### Text Guides
 
-<ul class="nav nav-tabs">
+<ul id="profileTabs" class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#executable">Executable</a></li>
   <li><a data-toggle="tab" href="#source">Source</a></li>
 </ul>
 <div class="tab-content">
   <div id="executable" class="tab-pane fade in active">
-{% capture local-content %}
 
 ### Executable
 
@@ -75,12 +74,8 @@ COMING SOON!
 
 **Step 10:** The application should now start opening packs for you!
 
-{% endcapture %}
-{{ local-content | markdownify }}
-
 </div>
 <div id="source" class="tab-pane fade" markdown="1">
-{% capture localwin-content %}
 
 ### Source
 **Step 1:** Clone or Download zip file of the repo from GitHub or directly links above
@@ -113,9 +108,6 @@ COMING SOON!
 
 **Step 10:** The application should now start opening packs for you!
 
-
-{% endcapture %}
-{{ localwin-content | markdownify }}
 </div>
 <hr>
 </div>
