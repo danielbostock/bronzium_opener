@@ -98,3 +98,18 @@ COMING SOON!
 **Step 9:** Once you have started it, you will have 5 seconds to switch back to BlueStacks.
 
 **Step 10:** The application should now start opening packs for you!
+
+## Length of Time Table
+
+| Cycles | Length of Time(MM:SS) | Ally Points |
+|--------|-----------------------|-------------|
+| 1      | 3.30                  | 10000       |
+| 2      | 7.00                  | 20000       |
+| 3      | 10.30                 | 30000       |
+| 4      | 14.00                 | 40000       |
+| 5      | 17.30                 | 50000       |
+| 6      | 21.00                 | 60000       |
+| 7      | 24.30                 | 70000       |
+| 8      | 28.00                 | 80000       |
+| 9      | 31.30                 | 90000       |
+| 10     | 35.00                 | 100000      |
