@@ -36,8 +36,8 @@ COMING SOON!
   <li class="active"><a data-toggle="tab" href="#executable">Executable</a></li>
   <li><a data-toggle="tab" href="#source">Source</a></li>
 </ul>
-<div class="tab-content">
-  <div role="tabpanel" id="executable" class="tab-pane fade in active">
+  <div class="tab-content">
+<div role="tabpanel" id="executable" class="tab-pane fade in active">
 
 ### Executable
 
