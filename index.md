@@ -41,7 +41,7 @@ COMING SOON!
 
   <h2> Executable </h2>
 
-**Step 1:** Download exe file here - <a href="https://1drv.ms/u/s!AqZNpR8_ZtGviKM-QTho_qw3sC3U-A?e=mfb9Qa">Bronzium Pack Opener v0.3a</a>
+<p>**Step 1:** Download exe file here - <a href="https://1drv.ms/u/s!AqZNpR8_ZtGviKM-QTho_qw3sC3U-A?e=mfb9Qa">Bronzium Pack Opener v0.3a</a>
 
 ![install_download_exe](https://user-images.githubusercontent.com/53065247/119247797-0b2ca900-bbd0-11eb-8037-3a3a216cbbba.png)
 
@@ -73,6 +73,7 @@ COMING SOON!
 **Step 9:** Once you have started it, you will have 5 seconds to switch back to BlueStacks.
 
 **Step 10:** The application should now start opening packs for you!
+  </p>
 
 </div>
   
