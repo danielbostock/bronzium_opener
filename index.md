@@ -21,13 +21,18 @@ It is imperative that you understand this application will continually press '1'
 
 ### GIF Guide
 
+COMING SOON!
+
 
 ### Video Guide
 
+COMING SOON!
 
-### Text Guide
+### Text Guides
 
-#### Executable
+### Windows
+
+##### Executable
 1. Download exe file here - <a href="https://1drv.ms/u/s!AqZNpR8_ZtGviKM-QTho_qw3sC3U-A?e=mfb9Qa">Bronzium Pack Opener v0.3a</a>
 2. Unzip the file to a desired location
 3. Open BlueStacks and open SWGOH app
@@ -41,7 +46,7 @@ It is imperative that you understand this application will continually press '1'
 10. The application should now start opening packs for you!
 
 
-#### Source
+##### Source
 1. Clone or Download zip file of the repo from GitHub or directly links above
 2. If you downloaded as a zip file, unzip to desired if you downloaded as a zip file
 3. Open BlueStacks and open SWGOH app
