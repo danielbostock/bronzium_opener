@@ -39,7 +39,7 @@ COMING SOON!
   <div class="tab-content">
 <div role="tabpanel" id="executable" class="tab-pane fade in active">
 
-### Executable
+  <h2> Executable </h2>
 
 **Step 1:** Download exe file here - <a href="https://1drv.ms/u/s!AqZNpR8_ZtGviKM-QTho_qw3sC3U-A?e=mfb9Qa">Bronzium Pack Opener v0.3a</a>
 
@@ -79,7 +79,7 @@ COMING SOON!
 
 <div role="tabpanel" id="source" class="tab-pane fade">
 
-### Source
+  <h2> Source </h2>
 **Step 1:** Clone or Download zip file of the repo from GitHub or directly links above
 
 **Step 2:** If you downloaded as a zip file, unzip to desired if you downloaded as a zip file
