@@ -40,9 +40,7 @@ COMING SOON!
   <div id="executable" class="tab-pane fade in active">
 {% capture local-content %}
 
-
 ### Executable
-
 
 **Step 1:** Download exe file here - <a href="https://1drv.ms/u/s!AqZNpR8_ZtGviKM-QTho_qw3sC3U-A?e=mfb9Qa">Bronzium Pack Opener v0.3a</a>
 
