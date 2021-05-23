@@ -37,7 +37,7 @@ COMING SOON!
   <li><a data-toggle="tab" href="#source">Source</a></li>
 </ul>
 <div class="tab-content">
-  <div id="executable" class="tab-pane fade in active">
+  <div role="tabpanel" id="executable" class="tab-pane fade in active">
 
 ### Executable
 
@@ -75,7 +75,9 @@ COMING SOON!
 **Step 10:** The application should now start opening packs for you!
 
 </div>
-<div id="source" class="tab-pane fade" markdown="1">
+  
+
+<div role="tabpanel" id="source" class="tab-pane fade">
 
 ### Source
 **Step 1:** Clone or Download zip file of the repo from GitHub or directly links above
@@ -109,5 +111,4 @@ COMING SOON!
 **Step 10:** The application should now start opening packs for you!
 
 </div>
-<hr>
 </div>
