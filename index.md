@@ -7,19 +7,32 @@ In order to use this application to open up your bronzium packs for you, you wil
 1. Star Wars Galaxy of Heroes (SWGOH) account in Google
 2. BlueStacks setup and logged in with SWGOH account
 
+## Why
+
+Do you have lots of ally points sitting unused because you simply can't be bothered?
+
+![intro_allypoints](https://user-images.githubusercontent.com/53065247/119250949-f3145400-bbe6-11eb-9a1e-60af9961739f.png)
+
+Need a way to open lots of them quickly so you can do something else?
+
+Well if you are productive (AKA lazy) like me, pressing the '1' as much as you would have to or clicking through the opening gets tedious and rather boring. There are other things whilst I have the time I would rather be doing. Thus I felt there should be a way to automate this whole process where I can go make dinner and packs can be opening for me while I do this or other things like going for a walk with my family as we so often do.
+
+
 ## What does this application do?
 
 In summary this application just repatively presses a keyboard key for you. This application will effectively keep pressing the '1' key repeatedly for as long as you define. BlueStacks has game controls which are like hot keys where you can use a key on your keyboard to provide an input to the BlueStacks game you are running.
 
-## Why
+Basically it is button mashing for you!
 
-If you are lazy like me, pressing the '1' as much as you would have to or clicking through the opening gets tedious and rather boring. There are other things whilst I have the time I would rather be doing. Thus I felt there should be a way to automate this whole process where I can go make dinner and packs can be opening for me while I do this or other things like going for a walk with my family as we so often do.
+![intro_buttonmash](https://user-images.githubusercontent.com/53065247/119251003-4f777380-bbe7-11eb-99dd-776cae7c2267.gif)
 
 ## Forewarning
 
 It is imperative that you understand this application will continually press '1' on your keyboard, it actually has no respect or knowledge of BlueStacks, what this means is if you close BlueStacks, it will continue to run. You therefore cannot do anything else with your computer while this is running. It is intended to be used while you are away from keyboard (AFK) or if you were to run this in a Virtual Machine (VM). I will discuss this latter step in a more advanced topic and video seperately.
 
 ## TL;DR - Lets get started!
+
+> You are likely to get a security warning either by your browser or Anti-Virus product at some point. This application is safe, however if you feel uncomfortable feel free to not proceed. If you do wish to use this application, do whatever is required by your AV to allow the application.
 
 ### GIF Guide
 
