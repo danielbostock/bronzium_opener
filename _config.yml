@@ -2,3 +2,5 @@ remote_theme: pmarsceill/just-the-docs
 title: Star Wars Galaxy of Heroes BlueStacks Bronzium Pack Opener
 description: The lazy way to open up lots of Bronzium packs quickly!
 show_downloads: True
+
+theme: jekyll-theme-cayman
