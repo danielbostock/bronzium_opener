@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# <div align="center"> Star Wars Galaxy of Heroes <p>BlueStacks Bronzium Opener</p> </div>
 
-You can use the [editor on GitHub](https://github.com/danielbostock/bronzium_opener/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Requirements
 
-### Markdown
+In order to use this application to open up your bronzium packs for you, you will need the following two things setup and basic knowledge on how to use them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Star Wars Galaxy of Heroes (SWGOH) account in Google
+2. BlueStacks setup and logged in with SWGOH account
 
-```markdown
-Syntax highlighted code block
+## What does this application do?
 
-# Header 1
-## Header 2
-### Header 3
+In summary this application just repatively presses a keyboard key for you. This application will effectively keep pressing the '1' key repeatedly for as long as you define. BlueStacks has game controls which are like hot keys where you can use a key on your keyboard to provide an input to the BlueStacks game you are running.
 
-- Bulleted
-- List
+## Why
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielbostock/bronzium_opener/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you are lazy like me, pressing the '1' as much as you would have to or clicking through the opening gets tedious and rather boring. There are other things whilst I have the time I would rather be doing. Thus I felt there should be a way to automate this whole process where I can go make dinner and packs can be opening for me while I do this or other things like going for a walk with my family as we so often do.
