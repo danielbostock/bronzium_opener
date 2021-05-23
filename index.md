@@ -1,3 +1,5 @@
+# Bronzium Pack Opener
+
 ## Requirements
 
 In order to use this application to open up your bronzium packs for you, you will need the following two things setup and basic knowledge on how to use them.
