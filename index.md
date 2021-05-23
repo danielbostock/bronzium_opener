@@ -34,7 +34,13 @@ COMING SOON!
 
 ##### Executable
 1. Download exe file here - <a href="https://1drv.ms/u/s!AqZNpR8_ZtGviKM-QTho_qw3sC3U-A?e=mfb9Qa">Bronzium Pack Opener v0.3a</a>
+
+![install_download_exe](https://user-images.githubusercontent.com/53065247/119247797-0b2ca900-bbd0-11eb-8037-3a3a216cbbba.png)
+
 2. Unzip the file to a desired location
+
+![install_open_app](https://user-images.githubusercontent.com/53065247/119247794-07992200-bbd0-11eb-958d-e114fc0c6d8a.png)
+
 3. Open BlueStacks and open SWGOH app
 4. Navigate to the store and then select the bronzium pack. Your SWGOH screen should look like this
 ![store_bronzium_buy](https://user-images.githubusercontent.com/53065247/119247440-c2272580-bbcc-11eb-90c3-089979de43a7.png)
