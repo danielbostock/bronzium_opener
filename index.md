@@ -28,7 +28,7 @@ It is imperative that you understand this application will continually press '1'
 ### Text Guide
 
 #### Executable
-1. Download exe file here - https://1drv.ms/u/s!AqZNpR8_ZtGviKM-QTho_qw3sC3U-A?e=mfb9Qa
+1. Download exe file here - <a href="https://1drv.ms/u/s!AqZNpR8_ZtGviKM-QTho_qw3sC3U-A?e=mfb9Qa">Bronzium Pack Opener v0.3a</a>
 2. Unzip the file to a desired location
 3. Open BlueStacks and open SWGOH app
 4. Navigate to the store and then select the bronzium pack. Your SWGOH screen should look like this
