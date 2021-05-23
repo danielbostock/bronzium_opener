@@ -1,4 +1,4 @@
-# <div align="center"> Star Wars Galaxy of Heroes BlueStacks Bronzium Opener </div>
+# Star Wars Galaxy of Heroes BlueStacks Bronzium Opener
 
 
 ## Requirements
