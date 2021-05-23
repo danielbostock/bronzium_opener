@@ -103,68 +103,50 @@ COMING SOON!
 
 
 
-### Mac
+<ul class="nav nav-tabs">
+  <li class="active"><a data-toggle="tab" href="#kubeosx">Mac</a></li>
+  <li><a data-toggle="tab" href="#kubewin">Windows</a></li>
+</ul>
+<div class="tab-content">
+  <div id="kubeosx" class="tab-pane fade in active">
+{% capture local-content %}
 
-1.  After installing Docker Desktop, you should see a Docker icon in your menu bar. Click on it, and navigate to **Preferences** > **Kubernetes**.
 
-2.  Check the checkbox labeled **Enable Kubernetes**, and click **Apply & Restart**. Docker Desktop will automatically set up Kubernetes for you. You'll know that Kubernetes has been successfully enabled when you see a green light beside 'Kubernetes _running_' in the Preferences menu.
+### Executable
 
-3.  In order to confirm that Kubernetes is up and running, create a text file called `pod.yaml` with the following content:
 
-    ```yaml
-    apiVersion: v1
-    kind: Pod
-    metadata:
-      name: demo
-    spec:
-      containers:
-      - name: testpod
-        image: alpine:3.5
-        command: ["ping", "8.8.8.8"]
-    ```
+**Step 1:** Download exe file here - <a href="https://1drv.ms/u/s!AqZNpR8_ZtGviKM-QTho_qw3sC3U-A?e=mfb9Qa">Bronzium Pack Opener v0.3a</a>
 
-    This describes a pod with a single container, isolating a simple ping to 8.8.8.8.
+![install_download_exe](https://user-images.githubusercontent.com/53065247/119247797-0b2ca900-bbd0-11eb-8037-3a3a216cbbba.png)
 
-4.  In a terminal, navigate to where you created `pod.yaml` and create your pod:
+**Step 2:** Unzip the file to a desired location
 
-    ```shell
-    kubectl apply -f pod.yaml
-    ```
+**Step 3:** Open BlueStacks and open SWGOH app
 
-5.  Check that your pod is up and running:
+![install_open_bluestacks](https://user-images.githubusercontent.com/53065247/119247843-5b0b7000-bbd0-11eb-9151-05c11d9b8f1c.png)
 
-    ```shell
-    kubectl get pods
-    ```
+**Step 4:** Navigate to the store and then select the bronzium pack. Your SWGOH screen should look like this
+![store_bronzium_buy](https://user-images.githubusercontent.com/53065247/119247440-c2272580-bbcc-11eb-90c3-089979de43a7.png)
 
-    You should see something like:
+**Step 5:** Open the Bronzium Pack Opener that you downloaded and unzipped in step 2
 
-    ```shell
-    NAME      READY     STATUS    RESTARTS   AGE
-    demo      1/1       Running   0          4s
-    ```
+![install_open_app](https://user-images.githubusercontent.com/53065247/119247872-9dcd4800-bbd0-11eb-92bb-329e5e2f4e78.png)
 
-6.  Check that you get the logs you'd expect for a ping process:
+**Step 6:** Specify if you want this to run in a cyclic manner or a specified length of time. If you would like to know what each cycle means and what a length of time means for amount of packs opened or ally points spent, then refer to the chart below which gives you some rough number. Alternatively the default method will run it for 10 cycles or 35mins, which will consume 100k of ally points.
 
-    ```shell
-    kubectl logs demo
-    ```
+![app_specify](https://user-images.githubusercontent.com/53065247/119247901-cd7c5000-bbd0-11eb-8c2b-031887707e1d.png)
 
-    You should see the output of a healthy ping process:
+**Step 7:** Specify amount of cycles or length of time, again refer to chart to help inform your decision.
 
-    ```shell
-    PING 8.8.8.8 (8.8.8.8): 56 data bytes
-    64 bytes from 8.8.8.8: seq=0 ttl=37 time=21.393 ms
-    64 bytes from 8.8.8.8: seq=1 ttl=37 time=15.320 ms
-    64 bytes from 8.8.8.8: seq=2 ttl=37 time=11.111 ms
-    ...
-    ```
+![app_specify_cycles](https://user-images.githubusercontent.com/53065247/119247977-53989680-bbd1-11eb-958e-bdba0fd03acb.png)
 
-7.  Finally, tear down your test pod:
+**Step 8:** After you have entered the amount of cycles or length of time, you will now need to confirm your run time for the application. You can either adjust your settings further or restart to go to change to a different run mode.
 
-    ```shell
-    kubectl delete -f pod.yaml
-    ```
+![image](https://user-images.githubusercontent.com/53065247/119247990-657a3980-bbd1-11eb-921d-b24550b486f1.png)
+
+**Step 9:** Once you have started it, you will have 5 seconds to switch back to BlueStacks.
+
+**Step 10:** The application should now start opening packs for you!
 
 {% endcapture %}
 {{ local-content | markdownify }}
