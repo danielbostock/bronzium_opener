@@ -1,4 +1,4 @@
-# Star Wars Galaxy of Heroes BlueStacks Bronzium Opener
+# <center> Star Wars Galaxy of Heroes BlueStacks Bronzium Opener </center>
 
 
 ## Requirements
