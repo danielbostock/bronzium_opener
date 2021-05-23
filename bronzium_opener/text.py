@@ -47,8 +47,8 @@ Alternatively select other options to make adjustments or start again.
 
 Selection: '''
 
-TIMER_MINS = 'Specify how long you would like to open packs for. Refer to documentation for a reference on how many packs are opened per min/hour.\n\nTime(mins): '
-TIMER_HOURS = 'Specify how long you would like to open packs for. Refer to documentation for a reference on how many packs are opened per min/hour.\n\nTime(hours): '
+TIMER_MINS = '\nSpecify how long you would like to open packs for. Refer to documentation for a reference on how many packs are opened per min/hour.\n\nTime(mins): '
+TIMER_HOURS = '\nSpecify how long you would like to open packs for. Refer to documentation for a reference on how many packs are opened per min/hour.\n\nTime(hours): '
 
 ## ERRORS
 
