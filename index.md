@@ -1,4 +1,4 @@
-# <div align="center"> Star Wars Galaxy of Heroes <p>BlueStacks Bronzium Opener</p> </div>
+# <div align="center"> Star Wars Galaxy of Heroes BlueStacks Bronzium Opener </div>
 
 
 ## Requirements
