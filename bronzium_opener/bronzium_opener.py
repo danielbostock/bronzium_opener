@@ -69,7 +69,7 @@ def opener():
                 if timer == 1:                
                     timer_mins = int(input(text.TIMER_MINS))
                     timer_secs = timer_mins
-                    timer_secs /= 60
+                    timer_secs *= 60
                     timer_hrs = timer_mins
                     timer_hrs /= 60
                     clear()
